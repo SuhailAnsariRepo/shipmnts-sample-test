@@ -25,7 +25,7 @@ To get the project up and running on your local machine, follow these steps:
 
 Navigate to the project directory:
 ```bash
-  cd shipmnts-sample
+  cd shipmnts-sample-test
 ```
 Install the dependencies for the server:
 ```bash
