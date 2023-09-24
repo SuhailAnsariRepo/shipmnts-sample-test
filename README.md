@@ -73,10 +73,3 @@ Express.js: Web application framework for Node.js.
 MongoDB: NoSQL database for data storage.
 
 CSS: Styling and layout of the application.
-
-
-
-
-## Screenshots
-
-Here are screenshorts of working of App
